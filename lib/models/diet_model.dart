@@ -29,7 +29,7 @@ class DietModel {
         level: 'Easy', 
         duration: '30mins', 
         calorie: '180kCal', 
-        boxColor: Color(0xff92A3FD),
+        boxColor: const Color(0xff92A3FD),
         viewIsSelected: true
       )
     );
@@ -41,7 +41,7 @@ class DietModel {
         level: 'Easy', 
         duration: '20mins', 
         calorie: '230kCal',
-        boxColor: Color(0xffC58BF2),
+        boxColor: const Color(0xffC58BF2),
         viewIsSelected: false
       )
     );
